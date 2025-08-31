@@ -41,6 +41,10 @@
 
 ---
 
+![Screenshot KongALI-COIN](https://github.com/kongali1720/KongALI-COIN/raw/main/Screenshot%202025-09-01%20045719.png)
+
+---
+
 ## 💻 Deskripsi Proyek
 
 Proyek ini membaca CSV transaksi `transactions.csv` dan meringkas informasi penting seperti total transaksi, transaksi sukses/gagal, total value, dan fee. Script dibuat dengan Python menggunakan library `pandas` dan `numpy`.  
